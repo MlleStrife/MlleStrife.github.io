@@ -1,15 +1,9 @@
 ---
 layout: home
-title: "Bienvenue sur mon espace de réflexion et de formation en cybersécurité"
+title: "Accueil"
 description: "Réflexions sur l'informatique, analyses et retours d’expérience autour de l’intelligence artificielle  & formation en cybersécurité. Bienvenue sur ma home page."
 ---
 
-
-<nav style="margin-bottom: 2em; text-align: center;">
-  <a href="{{ '/' | relative_url }}" style="margin: 0 10px;">Accueil</a> |
-  <a href="{{ '/articles' | relative_url }}" style="margin: 0 10px;">Articles</a> |
-  <a href="{{ '/about' | relative_url }}" style="margin: 0 10px;">À propos</a> 
-</nav>
 
 # Bonjour !
 

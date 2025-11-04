@@ -1,9 +1,9 @@
 title: "Site de MlleStrife"
-description: "Bienvenue sur mon espace de réflexion et de formation en cybersécurité."
+description: "Réflexions sur l'informatique, analyses et retours d’expérience autour de l’intelligence artificielle  & formation en cybersécurité."
+remote_theme: pages-themes/architect@v0.2.0
 theme: jekyll-theme-cayman
 author: "MlleStrife"
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-remote-theme
 
 markdown: kramdown

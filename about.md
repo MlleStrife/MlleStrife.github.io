@@ -3,12 +3,6 @@ layout: default
 title: "À propos"
 ---
 
-<nav style="margin-bottom: 2em; text-align: center;">
-  <a href="{{ '/' | relative_url }}" style="margin: 0 10px;">Accueil</a> |
-  <a href="{{ '/articles' | relative_url }}" style="margin: 0 10px;">Articles</a> |
-  <a href="{{ '/about' | relative_url }}" style="margin: 0 10px;">À propos</a> 
-</nav>
-
 # À propos
 
 Bienvenue sur mon espace dédié à la **cybersécurité, la conformité et l’intelligence artificielle**.  
