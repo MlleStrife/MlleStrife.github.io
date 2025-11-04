@@ -119,5 +119,5 @@ Contactez-moi pour co-construire la formation qui sera la plus pertinente pour v
 - [Mon Espace NIS2](https://monespacenis2.cyber.gouv.fr/directive/)
 - [La directive NIS2](https://cyber.gouv.fr/la-directive-nis-2)
 - [Cybersécurité all day #63](https://cybersecuriteallday.fr/episode/nis2-cest-quoi-pourquoi-pour-qui-63)
-- [Conférence ENS Paris Saclay, intervention de Marc-Antoine LEDIEU(https://ledieu-avocats.fr/comprendre-le-phenomene-des-cyberattaques-approche-historique-technique-et-juridique-conference-ens-paris-saclay-18-octobre-2025-ledieu-avocats/)
+- [Conférence ENS Paris Saclay, intervention de Marc-Antoine LEDIEU](https://ledieu-avocats.fr/comprendre-le-phenomene-des-cyberattaques-approche-historique-technique-et-juridique-conference-ens-paris-saclay-18-octobre-2025-ledieu-avocats/)
 - [Directive NIS 2 décryptée](https://ecoter.org/wp-content/uploads/2020/02/NIS2_DIRECTIVE_DECRYPTE%CC%81_FR1.pdf)

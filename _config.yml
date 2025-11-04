@@ -1,8 +1,9 @@
-title: "Mon site personnel"
+title: "Site de MlleStrife"
 description: "Bienvenue sur mon espace de réflexion et de formation en cybersécurité."
-theme: minima
+theme: jekyll-theme-cayman
 author: "MlleStrife"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: kramdown

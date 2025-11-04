@@ -97,5 +97,5 @@ Contactez-moi pour co-construire la formation qui sera la plus pertinente pour v
 
 ## Pour aller plus loin
 
-- Walkthroughs & notes publics sur la room *Windows Logging for SOC* ([ici](https://medium.com/@RosanaFS/windows-logging-for-soc-tryhackme-walkthrough-e4aa10339261), [la] (https://simontaplin.net/2025/07/05/answers-for-the-tryhackme-windows-logging-for-soc-room/)) ou encore [par ici] (https://medium.com/@Sle3pyHead/windows-logging-for-soc-notes-tryhackme-3faaf1e3e76f) :
+- Walkthroughs & notes publics sur la room *Windows Logging for SOC* ([ici](https://medium.com/@RosanaFS/windows-logging-for-soc-tryhackme-walkthrough-e4aa10339261), [la](https://simontaplin.net/2025/07/05/answers-for-the-tryhackme-windows-logging-for-soc-room/)) ou encore [par ici](https://medium.com/@Sle3pyHead/windows-logging-for-soc-notes-tryhackme-3faaf1e3e76f) :
 - [Windows Security Log Events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)

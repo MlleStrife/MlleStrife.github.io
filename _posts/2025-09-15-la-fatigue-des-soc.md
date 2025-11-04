@@ -99,6 +99,7 @@ A destination des managers SOC
 - Atelier 3 : construire un plan d’action 90 jours
 
 A destination des équipes SOC
+
 **Comprendre le problème (8h)**  
 - Les chiffres de la fatigue SOC  
 - Exemple : des alertes inutiles et le temps de résolution
