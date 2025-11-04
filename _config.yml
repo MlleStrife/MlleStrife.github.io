@@ -1,0 +1,8 @@
+title: "Mon site personnel"
+description: "Bienvenue sur mon espace de réflexion et de formation en cybersécurité."
+theme: minima
+author: "MlleStrife"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
