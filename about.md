@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+order: 1
 ---
 
 # À propos
