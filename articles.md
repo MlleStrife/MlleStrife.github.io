@@ -1,5 +1,6 @@
 ---
 title: "Tous les articles"
+order: 1
 ---
 
 # Tous les articles
