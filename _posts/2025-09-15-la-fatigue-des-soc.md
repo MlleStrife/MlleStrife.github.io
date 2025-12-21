@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "La fatigue des SOC : pourquoi elle arrive, pourquoi c’est dangereux, et comment la réduire"
 description: "Un tour d’horizon humain et technique sur la fatigue des analystes SOC, les causes, et les moyens concrets de la limiter."
 date: 2025-09-15

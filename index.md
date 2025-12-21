@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Accueil"
 description: "Réflexions sur l'informatique, analyses et retours d’expérience autour de l’intelligence artificielle  & formation en cybersécurité. Bienvenue sur ma home page."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pourquoi tout n’est pas \"GenIA\"l dans l’intelligence artificielle — et quelles sont les alternatives ?"
 date: 2025-09-01
 author: "MlleStrife"
