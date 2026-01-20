@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Directive NIS2 : êtes-vous concerné ? Comprendre, agir et se former !"
 description: "Tout savoir sur la réglementation européenne NIS2, ses obligations, les sanctions et comment s’y conformer efficacement grâce à une formation dédiée."
 date: 2025-10-01

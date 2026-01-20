@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Windows Logging for SOC de TryHackMe (Traduction & approfondissements)"
 description: "Traduction et questions pour aller plus loin, basées sur la room 'Windows Logging for SOC' (TryHackMe)."
 date: 2025-10-15
