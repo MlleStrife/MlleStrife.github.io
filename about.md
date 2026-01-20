@@ -19,5 +19,5 @@ Après 10 ans passée dans le secteur de l’IA, je me suis prise de passion pou
 
 Pour me contacter, voici mes informations :
 
-- Email : [manon.macary92@gmail.com](mailto:manon.macary92@gmail.com)
+- Email : [manon.pinel92@gmail.com](mailto:manon.pinel92@gmail.com)
 - LinkedIn : [Manon Macary](https://www.linkedin.com/manon-pinel-b5510aa9)

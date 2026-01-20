@@ -110,7 +110,7 @@ Deuxième partie (1 à 2 mois plus tard) :
 ### Envie d’en savoir plus ?
 Contactez-moi pour co-construire la formation qui sera la plus pertinente pour vous et/ou vos équipes.  
 
-**Email :** [manon.macary92@gmail.com](mailto:manon.macary92@gmail.com)
+**Email :** [manon.pinel92@gmail.com](mailto:manon.pinel92@gmail.com)
 
 ---
 

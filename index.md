@@ -33,10 +33,8 @@ Si tu t’intéresses à la **cybersécurité** dans son ensemble ou dans ses d�
 
 ### Le phising : formation complète
 Quand on pense cybersécurité, on finit par penser au phising. Cette porte d'entrée, souvent mal gardée (manque de formation, de vigilance, attaque de plus en plus sophostiquée...), peut mener à des conséquences désastreuses. [to be continued]
-Date de sortie : 15/11/2025
 
  ---
 
 ### L'IA hybride appliqué à la cybersécurité
 L’intelligence artificielle hybride, croisement entre approche symbolique et apprentissage automatique, s’impose comme une réponse concrète aux défis de la cybersécurité d'aujourd'hui. Entre explicabilité et performance, elle redéfinit la manière dont les SOC anticipent, détectent et réagissent aux menaces. [to be continued]
-Date de sortie : 01/12/2025
